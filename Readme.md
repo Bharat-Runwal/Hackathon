@@ -1,4 +1,5 @@
 # Hackathon 
 
-- This Repository contains code for Extracting and matching the attributes from demand and supply side.
-- Scrapper is used to extract the data from twitter,seek etc.
+- Different scrappers are used to extract the data from twitter,seek etc.
+- Extracting and matching the attributes from demand and supply side. 
+- Matching semantically similar searches.
